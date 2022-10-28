@@ -10,10 +10,6 @@ Content discussed :
 ## Get the Code
 
 ```
-$ git clone https://github.com/CodAffection/Node.js-Expess-MongoDB-CRUD.git
+$ git clone https://github.com/ManiRam63/codeAffection.git
 $ cd Node.js-Expess-MongoDB-CRUD/project
 $ npm install
-```
-
- ## How it works ?
- 
